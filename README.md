@@ -11,7 +11,7 @@ It allows you to interact with the Apollo.io API using the Model Context Protoco
   "mcpServers": {
     "apollo-io": {
       "env": {
-        "APOLLO_IO_API_KEY": "APOLLO_IO_API_KEY"
+        "APOLLO_API_KEY": "APOLLO_API_KEY"
       },
       "command": "uvx",
       "args": [

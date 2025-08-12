@@ -15,7 +15,7 @@ It allows you to interact with the Apollo.io API using the Model Context Protoco
       },
       "command": "uvx",
       "args": [
-        "google-calendar-mcpserver"
+        "apollo-io-mcp"
       ]
     }
   }

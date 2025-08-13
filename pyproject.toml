@@ -8,10 +8,9 @@ authors = [
 repository = "https://github.com/protagolabs/Netmind-review-MCP"
 license = { text = "MIT" }
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<4.0"
 dependencies = [
-    "mcp (==1.11.0)",
-    "httpx (>=0.28.1,<0.29.0)",
+    "fastmcp (>=2.11.3,<3.0.0)"
 ]
 
 packages = [{ include = "src/apollo_io_mcp" }]
